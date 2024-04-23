@@ -10,7 +10,9 @@
 
 
 Implementar una plataforma web que permita a las diferentes Unidades Administrativas del Gobierno del Estado disponer de los archivos de la encuesta del INEGI mediante un control automatizado y eficiente.
+
 <br>
+
 #####Planteamiento del problema 
 
 Dificultad en la distribución y recepción de los archivos de la encuesta del INEGI  en las diferentes dependencias que conforman el Gobierno del Estado.
