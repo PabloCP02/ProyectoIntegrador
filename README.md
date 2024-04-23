@@ -7,19 +7,19 @@
 <br>
 
 
-#### Objetivo del proyecto
+### Objetivo del proyecto
 
 
 Implementar una plataforma web que permita a las diferentes Unidades Administrativas del Gobierno del Estado disponer de los archivos de la encuesta del INEGI mediante un control automatizado y eficiente.
 
 <br>
 
-#### Planteamiento del problema 
+### Planteamiento del problema 
 
 Dificultad en la distribución y recepción de los archivos de la encuesta del INEGI  en las diferentes dependencias que conforman el Gobierno del Estado.
 <br>
 
-#### Justificación 
+### Justificación 
 
 - Con la implementación del sistema web, se va a poder distribuir eficientemente los archivos de la encuesta del INEGI en todas sus dependencias.
 
@@ -29,7 +29,7 @@ Dificultad en la distribución y recepción de los archivos de la encuesta del I
 
 <br>
 
-#### Alternativas
+### Alternativas
 
 a) Automatizar mediante programación los archivos de la encuesta en un sistema web.
 
@@ -37,7 +37,7 @@ b) Generar un sistema de distribución/recepción de la encuesta mediante un ser
 
 <br>
 
-#### Tecnologías utilizadas:
+### Tecnologías utilizadas:
 - Laravel 10
 - Visual Studio
 - PHP
@@ -52,7 +52,7 @@ b) Generar un sistema de distribución/recepción de la encuesta mediante un ser
 
 <br>
 
-#### Personas-Desarrolladores del Proyecto:
+### Personas-Desarrolladores del Proyecto:
 - Jessica Olvera Gordillo.
 - Pablo Joaquin Cervantes Pech
 - Rosendo Xavier Chan Hernandez
