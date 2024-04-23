@@ -13,7 +13,7 @@ Implementar una plataforma web que permita a las diferentes Unidades Administrat
 
 <br>
 
-#####Planteamiento del problema 
+##### Planteamiento del problema 
 
 Dificultad en la distribución y recepción de los archivos de la encuesta del INEGI  en las diferentes dependencias que conforman el Gobierno del Estado.
 <br>
@@ -28,7 +28,8 @@ Dificultad en la distribución y recepción de los archivos de la encuesta del I
 
 <br>
 
-#####Alternativas
+##### Alternativas
+
 a) Automatizar mediante programación los archivos de la encuesta en un sistema web.
 
 b) Generar un sistema de distribución/recepción de la encuesta mediante un servicio centralizado.
