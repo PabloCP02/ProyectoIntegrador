@@ -4,6 +4,7 @@
 - Para el siguiente proyecto la informacion fue propocionada por la dependencia asociada y asesora del mismo.
 
 <br>
+<br>
 
 
 #### Objetivo del proyecto
