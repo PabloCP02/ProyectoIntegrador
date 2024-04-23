@@ -17,6 +17,7 @@ Implementar una plataforma web que permita a las diferentes Unidades Administrat
 ### Planteamiento del problema 
 
 Dificultad en la distribución y recepción de los archivos de la encuesta del INEGI  en las diferentes dependencias que conforman el Gobierno del Estado.
+
 <br>
 
 ### Justificación 
